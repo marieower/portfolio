@@ -25,6 +25,7 @@ https://github.com/marieower/portfolio/tree/master/Todo%20list%20%D0%BD%D0%B0%20
 Приложение написано для того, чтобы ощутить разницу при создании одного и того же приложения на чистом JS и React.
 
 🔗 Ссылка:
+https://github.com/marieower/portfolio/tree/master/Todo%20list%20-%20React
 
 # Todo list - React 🚀 Redux 🥑 Saga 🔮
 Приложение написано для изучение стека React/Redux.
