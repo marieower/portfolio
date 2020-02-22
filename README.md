@@ -1,6 +1,5 @@
 # Portfolio 👩‍💻
-#
-#
+
 # Пример блочной верстки 🍫
 Самая первая учебная страничка на HTML, CSS :)
 Блоки сверстаны с помощью flexbox. 
@@ -33,8 +32,7 @@ https://github.com/marieower/portfolio/tree/master/Todo%20list%20%D0%BD%D0%B0%20
 
 🔗 Ссылка:
 https://github.com/marieower/portfolio/tree/master/Todo%20list%20-%20React%20-%20Redux%20-%20Saga
-#
-#
+
 # Примечание 
 Все Todo lists сверстаны по макету, сделанному мной в Figma 👩‍🎨:
 https://www.figma.com/file/NvD7Gtyed02Zutq9l7V3yL/Todo-list?node-id=0%3A1
